@@ -1,1 +1,1 @@
-Left join用法
+this is the first passage in the github
