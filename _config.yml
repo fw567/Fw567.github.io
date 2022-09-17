@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  #zhihu: ning-meng-cheng-31-94
+  email: 15768486054@163.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: fw567
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -52,7 +52,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube:
+  youtube: James Yang
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2019 lemon
