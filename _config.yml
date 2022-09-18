@@ -20,13 +20,13 @@ favicon: https://github.com/fw567/fw567.github.io/blob/master/images/favicon.ico
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Blog
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Archive
     url: /archive
-  - name: 标签
+  - name: Tags
     url: /tags
 
 # Pagination
@@ -40,10 +40,11 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   #zhihu: ning-meng-cheng-31-94
+  github: fw567
+  youtube: James Yang
   email: 2782007864@qq.com
   facebook:
   flickr:
-  github: fw567
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -52,7 +53,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   #tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube: James Yang
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2022  Design by Fw567   
