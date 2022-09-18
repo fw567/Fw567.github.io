@@ -55,7 +55,7 @@ footer-links:
   youtube: James Yang
 
 # Text under the icons in footer
-<div> Design by Fw567</div>
+footer-text: <div> Design by Fw567</div>
 footer-text: Copyright (c) 2022
 
 
