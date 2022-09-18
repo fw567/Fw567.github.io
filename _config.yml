@@ -40,7 +40,7 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   #zhihu: ning-meng-cheng-31-94
-  email: 15768486054@163.com
+  email: 2782007864@qq.com
   facebook:
   flickr:
   github: fw567
@@ -50,12 +50,12 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
+  #tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
   youtube: James Yang
 
 # Text under the icons in footer
-footer-text: Design by Fw567
+<div> Design by Fw567</div>
 footer-text: Copyright (c) 2022
 
 
