@@ -5,7 +5,7 @@ Gradle sync failed: Could not find method dependencyResolutionManagement() for a
 解决问题：
 1.首先在project structure中找到Android gradle plungin version将其改为4.1.3，gradle最低的版本限制为6.5，以下的都不可以。
 
-2更新gradle 文件进行解决：
+2.更新gradle 文件进行解决：
 将build.gradle中的文字替换为:
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
