@@ -33,7 +33,7 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-具体如下图：[img]https://kjimg10.360buyimg.com/ott/jfs/t1/143277/37/29407/68677/63287bd9Ee4dd37ab/1dbaa815db530c24.png[/img]
+具体如下图：![avator](https://kjimg10.360buyimg.com/ott/jfs/t1/143277/37/29407/68677/63287bd9Ee4dd37ab/1dbaa815db530c24.png)
 
 
 
@@ -41,5 +41,5 @@ task clean(type: Delete) {
 rootProject.name = "HelloWorld"
 include ':app'
 
-seeting.grade处的设置：[img]https://kjimg10.360buyimg.com/ott/jfs/t1/105104/2/31522/8388/63287c56E18b25efc/7839e426df1a66b5.png[/img]
+seeting.grade处的设置：![avator](https://kjimg10.360buyimg.com/ott/jfs/t1/105104/2/31522/8388/63287c56E18b25efc/7839e426df1a66b5.png)
 
