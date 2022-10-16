@@ -1,7 +1,6 @@
 **主要是解决开发时出现的问题**
 
-___________________________________________________________
-
+________________________________
 出现的问题:Gradle sync failed: Could not find method dependencyResolutionManagement() for arguments [settings_85pb7rne0n0dcsfovjf5fgfbb$_run_closure1@70dbe55e] on settings 'HelloWorld' of type org.gradle.initialization.DefaultSettings. 
 
 解决方法：
