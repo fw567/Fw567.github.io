@@ -1,6 +1,5 @@
-**<br>Android Studio 开发中遇到的问题及解决办法</br>**
-出现的问题：
-Gradle sync failed: Could not find method dependencyResolutionManagement() for arguments [settings_85pb7rne0n0dcsfovjf5fgfbb$_run_closure1@70dbe55e] on settings 'HelloWorld' of type org.gradle.initialization.DefaultSettings. 
+**主要是解决开发时出现的问题**：
+出现的问题:Gradle sync failed: Could not find method dependencyResolutionManagement() for arguments [settings_85pb7rne0n0dcsfovjf5fgfbb$_run_closure1@70dbe55e] on settings 'HelloWorld' of type org.gradle.initialization.DefaultSettings. 
 
 解决方法：
 1.#首先在**Project Structure**中找到**Android gradle plungin version**将其改为**4.1.3**，gradle最低的版本限制为**6.5**，在此以下的版本都不可以。
